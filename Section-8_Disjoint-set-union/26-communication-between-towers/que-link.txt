@@ -1,0 +1,6 @@
+similar que:
+https://leetcode.com/problems/count-servers-that-communicate/description/
+
+Hint for Leetcode que:
+1. check for grid[i][j]==1 and count all connected grid[i][j].
+2. when we will consider count? Think about it.

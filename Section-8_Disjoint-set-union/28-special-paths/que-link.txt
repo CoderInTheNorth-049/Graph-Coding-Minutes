@@ -1,0 +1,1 @@
+https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/special-path-b3ac37d0/
