@@ -67,5 +67,6 @@ Once you've solved the problems for a section or a set of sections, you can furt
 - to improve your understanding of problems, like how to identify what concept you need to use or if it is a graph problem. Competitive programming is the best thing, so start with Codeforces problems from rating 1400 and add filters by tags. My recommendation to visit [ACDLadders](https://acodedaily.com/) and solve selected problems from ACodeDaily community.
 - To grind Codeforces D problems visit [AskSenior](https://asksenior.in/) and solve relevent problems.
 - Contributing more resources like Editorial links, Blogs etc. for this Repository.
+- For CSES problem solutions, I already have a repository. You can check it out, and for better solutions or problems not solved by me, you can refer to [Abhishek Saini's Repository](https://github.com/Abhishek-Saini/educational/tree/main/cses/graph).
 
 Happy Coding! 🚀
