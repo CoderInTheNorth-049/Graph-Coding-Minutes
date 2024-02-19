@@ -1,0 +1,4 @@
+Similar question:
+https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1
+
+hint: try to convert this GFG problem into the problem I provided.
