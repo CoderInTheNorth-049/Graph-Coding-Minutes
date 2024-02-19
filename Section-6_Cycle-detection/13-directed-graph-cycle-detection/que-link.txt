@@ -1,0 +1,3 @@
+https://www.codingninjas.com/studio/problems/detect-cycle-in-a-directed-graph_1062626
+
+https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1

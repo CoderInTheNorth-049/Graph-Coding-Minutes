@@ -1,0 +1,3 @@
+https://leetcode.com/problems/course-schedule/description/
+
+https://www.geeksforgeeks.org/problems/course-schedule/1
